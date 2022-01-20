@@ -1,0 +1,8 @@
+push
+pull
+touch
+origin
+master
+log
+status
+add .................. and many more
