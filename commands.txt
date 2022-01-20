@@ -5,4 +5,6 @@ origin
 master
 log
 status
-add .................. and many more
+add
+branch
+checkout .......................... and many more
